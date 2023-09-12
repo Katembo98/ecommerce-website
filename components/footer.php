@@ -20,10 +20,10 @@
 
       <div class="box">
          <h3>contact us</h3>
-         <a href="tel:1234567890"><i class="fas fa-phone"></i> +123 456 7899</a>
-         <a href="tel:11122233333"><i class="fas fa-phone"></i> +111 222 3333</a>
-         <a href="mailto:shaikh@gmail.com"><i class="fas fa-envelope"></i> shaikh@gmail.com</a>
-         <a href="https://www.google.com/myplace"><i class="fas fa-map-marker-alt"></i> mumbai, india - 400104 </a>
+         <a href="tel:1234567890"><i class="fas fa-phone"></i> +255612635872</a>
+         <a href="tel:11122233333"><i class="fas fa-phone"></i> +255763367919</a>
+         <a href="mailto:shaikh@gmail.com"><i class="fas fa-envelope"></i> Dreamers.co.Tz</a>
+         <a href="https://www.google.com/myplace"><i class="fas fa-map-marker-alt"></i>  Sumbawanga Tanzania </a>
       </div>
 
       <div class="box">
@@ -36,6 +36,6 @@
 
    </section>
 
-   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>mr. web designer</span> | all rights reserved!</div>
+   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>Dreamers Company Ltd</span> | all rights reserved!</div>
 
 </footer>
